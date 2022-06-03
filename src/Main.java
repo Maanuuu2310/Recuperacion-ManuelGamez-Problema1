@@ -53,6 +53,8 @@ public class Main {
                         System.out.println("imprimiendo trabajos" + impresora.remove(i));
                         break;
                     }
+                    break;
+
                 case 6:
                     salir = true;
                     System.out.println("saliendo del menu ten un buen dia rey <3 nos vemos en cocina " + "\n");
