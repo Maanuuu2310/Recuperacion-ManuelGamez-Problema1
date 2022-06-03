@@ -24,7 +24,7 @@ public class Main {
             opcion = sc.nextInt();
 
             switch (opcion) {
-                case 1:
+                case 1 :
                     System.out.println("Impresora Encendida " + "\n");
                     String on = sc.nextLine();
                     break;
